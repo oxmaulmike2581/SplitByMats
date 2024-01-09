@@ -3,6 +3,9 @@
 Very useful when preparing the models extracted from various games.<br />
 Written and tested on 3ds Max 2024, but should work on all modern versions.<br />
 
+![image](https://github.com/oxmaulmike2581/SplitByMats/assets/28642811/d35a3303-de92-4488-9db8-a6abc16f6c08)
+
+
 ## Includes
 * splitByMats.mcr - split all geometry objects in the scene automatically
 * splitByMats_selected.mcr - split only selected objects
