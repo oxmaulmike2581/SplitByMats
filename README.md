@@ -1,5 +1,5 @@
 # SplitByMats
-3ds Max script to split selected pbjects or whole scene by materials.<br />
+3ds Max script to split selected objects or whole scene by materials.<br />
 Very useful when preparing the models extracted from various games.<br />
 Written and tested on 3ds Max 2024, but should work on all modern versions.<br />
 
